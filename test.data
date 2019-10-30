@@ -1,2 +1,2 @@
-name	minutes	n_steps	ingredients	n_ingredients	calories	total_fat	sugar	sodium	protein	saturated_fat	carbohydrates	num_reviews	mean_rating
-fool the meat eaters  chili	40	9	vegetarian ground beef	12	295.6	3	56	76	32	1	18	4	4.50
+name@minutes@n_steps@ingredients@n_ingredients@calories@total_fat@sugar@sodium@protein@saturated_fat@carbohydrates@num_reviews@mean_rating
+fool the meat eaters  chili@40@9@vegetarian ground beef@12@295.6@3@56@76@32@1@18@4@4.50
