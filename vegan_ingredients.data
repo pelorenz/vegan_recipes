@@ -237,7 +237,7 @@ cajun spices							TRUE																																																									
 calabaza squash		y					TRUE																																																																																																			y																																				
 california walnut							TRUE																													y																																																																																																										
 calrose rice							TRUE																			y																																																																																																																				
-campbells tomato soup							TRUE																																																																																														y																																									
+campbells tomato soup		y					TRUE																																																																																														y																																									
 candied ginger							TRUE																																																																			y																																																																				
 candied peel							TRUE																																																																																																																							y																
 canned artichoke hearts							TRUE																								y																																																																																																															
@@ -254,15 +254,15 @@ canned jalapeno slices							TRUE																																															
 canned navy beans							TRUE																																																										y																																																																													
 canned peas							TRUE																																																													y																																																																										
 canned pinto beans							TRUE																																																										y																																																																													
-canned plum tomatoes							TRUE																																																																																														y																																									
+canned plum tomatoes	y						TRUE																																																																																														y																																									
 canned pumpkin		y					TRUE																																																																																																			y																																				
 canned pumpkin puree		y					TRUE																																																																																																			y																																				
 canned red kidney beans							TRUE																																																										y																																																																													
-canned tomato							TRUE																																																																																														y																																									
-canned tomatoes							TRUE																																																																																														y																																									
+canned tomato	y						TRUE																																																																																														y																																									
+canned tomatoes	y						TRUE																																																																																														y																																									
 canned unsweetened coconut milk							TRUE			y																																																																																																																																				
 canned vegetable broth							TRUE																																																																																											y																																												
-canned whole tomatoes							TRUE																																																																																														y																																									
+canned whole tomatoes	y						TRUE																																																																																														y																																									
 cannellini							TRUE																																																										y																																																																													
 cannellini beans							TRUE																																																										y																																																																													
 canola oil							TRUE																																							y																																																																																																
@@ -384,7 +384,7 @@ cognac							TRUE																																																															
 cold water							FALSE																																																																																																																																							
 coleslaw mix							TRUE																																																																																							y																																																
 collard greens					y		TRUE																																																																																			y																																																				
-condensed tomato soup							TRUE																																																																																														y																																									
+condensed tomato soup		y					TRUE																																																																																														y																																									
 confectioners sugar							FALSE																																																																																																																																		y					y
 cooked barley							TRUE															y																																																																																																																								
 cooked basmati rice							TRUE																			y																																																																																																																				
@@ -455,7 +455,7 @@ crunchy peanut butter							TRUE																																y
 crushed pineapple							TRUE																																																																																																																y																							
 crushed pineapple in juice							TRUE																																																																																																																y																							
 crushed red pepper flakes							TRUE																																																																																																	y																																						
-crushed tomatoes							TRUE																																																																																														y																																									
+crushed tomatoes	y						TRUE																																																																																														y																																									
 crusty bread							FALSE																																																																																																																																							
 crusty italian bread							FALSE																																																																																																																																							
 crystal hot sauce							FALSE																																																																																																																																							
@@ -501,13 +501,13 @@ diced green chilies							TRUE																																																		
 diced onion							TRUE																																																																													y																																																										
 diced onions							TRUE																																																																													y																																																										
 diced pimentos	y						TRUE																																																																																																y																																							
-diced tomato							TRUE																																																																																														y																																									
-diced tomatoes							TRUE																																																																																														y																																									
-diced tomatoes with green chilies							TRUE																																																																																														y			y																																						
-diced tomatoes with jalapenos							TRUE																																																																																														y			y																																						
-diced tomatoes with juice							TRUE																																																																																														y																																									
-diced tomatoes with onion garlic and basil							TRUE																																																																											y		y															y		y																																									
-diced tomatoes with seasonings							TRUE																																																																																														y																																									
+diced tomato		y					TRUE																																																																																														y																																									
+diced tomatoes		y					TRUE																																																																																														y																																									
+diced tomatoes with green chilies		y					TRUE																																																																																														y			y																																						
+diced tomatoes with jalapenos		y					TRUE																																																																																														y			y																																						
+diced tomatoes with juice		y					TRUE																																																																																														y																																									
+diced tomatoes with onion garlic and basil		y					TRUE																																																																											y		y															y		y																																									
+diced tomatoes with seasonings		y					TRUE																																																																																														y																																									
 dijon mustard							TRUE																									y																																																																																																														
 dijon-style mustard							TRUE																									y																																																																																																														
 dill							TRUE																																																																																												y																																											
@@ -634,7 +634,7 @@ dried tarragon							TRUE																																																							
 dried thai chiles							TRUE																																																																																																	y																																						
 dried thyme							TRUE																																																																																												y																																											
 dried thyme leaves							TRUE																																																																																												y																																											
-dried tomatoe							TRUE																																																																																														y																																									
+dried tomatoe		y					TRUE																																																																																														y																																									
 dried white bean							TRUE																																																										y																																																																													
 dried white beans							TRUE																																																										y																																																																													
 dried wood ear mushrooms							TRUE										y																																																																																																																													
@@ -1122,10 +1122,10 @@ italian salad dressing							FALSE
 italian seasoning							TRUE																																																																																												y																																											
 italian seasoning mix							TRUE																																																																																												y																																											
 italian spices							TRUE																																																																																												y																																											
-italian stewed tomatoes							TRUE																																																																																														y																																									
-italian-style stewed tomatoes							TRUE																																																																																														y																																									
-italian-style tomato paste							TRUE																																																																																														y																																									
-italian-style tomatoes							TRUE																																																																																														y																																									
+italian stewed tomatoes	y						TRUE																																																																																														y																																									
+italian-style stewed tomatoes	y						TRUE																																																																																														y																																									
+italian-style tomato paste	y						TRUE																																																																																														y																																									
+italian-style tomatoes		y					TRUE																																																																																														y																																									
 jaggery							FALSE																																																																																																																																							
 jalapeno					y		TRUE																																																																																																	y																																						
 jalapeno chile					y		TRUE																																																																																																	y																																						
@@ -1247,7 +1247,7 @@ low-sodium hot sauce							FALSE
 low-sodium kernel corn			y				TRUE																		y																																																																																																																					
 low-sodium salsa							FALSE																																																																																																																																							
 low-sodium tamari							FALSE																																																																																																																																							
-low-sodium tomato sauce							TRUE																																																																																														y																																									
+low-sodium tomato sauce	y						TRUE																																																																																														y																																									
 lumpia skins							FALSE																																																																																																																																							
 lychees							TRUE																																																																																																														y																									
 macadamia nut oil							TRUE																																							y																																																																																																
@@ -1272,7 +1272,7 @@ maple extract							FALSE																																																							
 maple syrup							FALSE																																																																																																																																				y			
 margarine							TRUE																																						y																																																																																																	
 marinade							FALSE																																																																																																																																							
-marinara sauce							TRUE																																																																																														y																																									
+marinara sauce	y						TRUE																																																																																														y																																									
 marinated artichoke							TRUE																								y																																																																																																															
 marinated artichoke hearts							TRUE																								y																																																																																																															
 marinated tofu							TRUE																																																							y																																																																																
@@ -1293,8 +1293,8 @@ mesclun				y	y		TRUE																																																												
 mexican chili powder							TRUE																																																																																																	y																																						
 mexican oregano							TRUE																																																																																												y																																											
 mexican seasoning							TRUE																																																																																																	y																																						
-mexican-style diced tomatoes							TRUE																																																																																														y																																									
-mexican-style stewed tomatoes with jalapeno peppers							TRUE																																																																																														y		y																																							
+mexican-style diced tomatoes	y						TRUE																																																																																														y																																									
+mexican-style stewed tomatoes with jalapeno peppers	y						TRUE																																																																																														y		y																																							
 midori melon liqueur							TRUE																																																																																																																																y							
 mild chili powder							TRUE																																																																																																	y																																						
 mild curry powder							TRUE																																										y																																																																																													
@@ -1368,7 +1368,7 @@ navy beans							TRUE																																																										y
 new potato							TRUE																																																																										y																																																													
 new potatoes							TRUE																																																																										y																																																													
 nigella seeds							TRUE																												y																																																																																																											
-no-added-salt tomato paste							TRUE																																																																																														y																																									
+no-added-salt tomato paste	y						TRUE																																																																																														y																																									
 non-alcoholic beer							TRUE																																																																																																																															y								
 non-dairy powdered coffee creamer							FALSE																																																																																																																																							
 non-fat cooking spray							FALSE																																																																																																																																							
@@ -1377,11 +1377,11 @@ non-hydrogenated margarine							TRUE																																						y
 nonstick cooking spray							FALSE																																																																																																																																							
 nonstick spray coating							FALSE																																																																																																																																							
 nori							TRUE																																																																																									y																																														
-no-salt-added diced tomatoes							TRUE																																																																																														y																																									
+no-salt-added diced tomatoes	y						TRUE																																																																																														y																																									
 no-salt-added garbanzo beans							TRUE																																																												y																																																																											
 no-salt-added ketchup							FALSE																																																																																																																																							
-no-salt-added stewed tomatoes							TRUE																																																																																														y																																									
-no-salt-added tomato sauce							TRUE																																																																																														y																																									
+no-salt-added stewed tomatoes	y						TRUE																																																																																														y																																									
+no-salt-added tomato sauce	y						TRUE																																																																																														y																																									
 nut butter							TRUE																													y																																																																																																										
 nutmeg							TRUE																																													y																																																																																										
 nutritional yeast							TRUE											y																																																																																																																												
@@ -1854,7 +1854,7 @@ soybeans							TRUE																																																									y
 soymilk							TRUE			y																																																																																																																																				
 soymilk powder							TRUE			y																																																																																																																																				
 spaghetti							TRUE																					y																																																																																																																		
-spaghetti sauce							TRUE																																																																																														y																																									
+spaghetti sauce	y						TRUE																																																																																														y																																									
 spaghetti sauce mix							FALSE																																																																																																																																							
 spaghetti squash		y	y				TRUE																																																																																																			y																																				
 spanish olive oil							TRUE																																					y																																																																																																		
@@ -1866,9 +1866,9 @@ spelt flour							TRUE												y
 spiced rum							TRUE																																																																																																																																y							
 spices							FALSE																																																																																																																																							
 spicy brown mustard							TRUE																									y																																																																																																														
-spicy hot v8							TRUE																																																																																														y																																									
+spicy hot v8	y						TRUE																																																																																														y																																									
 spicy mustard							TRUE																									y																																																																																																														
-spicy vegetable juice							TRUE																																																																																														y																																									
+spicy vegetable juice	y						TRUE																																																																																														y																																									
 spike seasoning							TRUE																																												y																																																																																											
 spinach					y		TRUE																																																																																	y																																																						
 spinach leaves					y		TRUE																																																																																	y																																																						
@@ -1888,7 +1888,7 @@ star anise pods							TRUE																																												y
 steak seasoning							TRUE																																												y																																																																																											
 steel cut oats							TRUE																	y																																																																																																																						
 stevia							FALSE																																																																																																																																		y					y
-stewed tomatoes							TRUE																																																																																														y																																									
+stewed tomatoes	y						TRUE																																																																																														y																																									
 stir fry vegetables							FALSE																																																																																																																																							
 stir-fry sauce							FALSE																																																																																																																																							
 stone ground corn grits							TRUE														y																																																																																																																									
@@ -1915,7 +1915,7 @@ summer squash		y	y	y			TRUE																																																					
 sun-dried tomato	y						TRUE																																																																																														y																																									
 sun-dried tomato olive oil	y						TRUE																																					y																																																									y																																									
 sun-dried tomato packed in oil	y						TRUE																																							y																																																							y																																									
-sun-dried tomato paste							TRUE																																																																																														y																																									
+sun-dried tomato paste	y						TRUE																																																																																														y																																									
 sun-dried tomatoes	y						TRUE																																																																																														y																																									
 sun-dried tomatoes packed in oil	y						TRUE																																							y																																																							y																																									
 sunflower oil							TRUE																																							y																																																																																																
@@ -2017,17 +2017,17 @@ tofu mayonnaise							TRUE		y																																																			
 tofu sour cream							TRUE					y																																																		y																																																																																
 tomatillo				y			TRUE																																																																																														y																																									
 tomatillos				y			TRUE																																																																																														y																																									
-tomato juice							TRUE																																																																																														y																																									
+tomato juice	y						TRUE																																																																																														y																																									
 tomato ketchup							FALSE																																																																																																																																							
-tomato paste							TRUE																																																																																														y																																									
-tomato puree							TRUE																																																																																														y																																									
-tomato sauce							TRUE																																																																																														y																																									
-tomato soup							TRUE																																																																																														y																																									
-tomato with juice							TRUE																																																																																														y																																									
+tomato paste	y						TRUE																																																																																														y																																									
+tomato puree	y						TRUE																																																																																														y																																									
+tomato sauce	y						TRUE																																																																																														y																																									
+tomato soup		y					TRUE																																																																																														y																																									
+tomato with juice	y						TRUE																																																																																														y																																									
 tomatoes		y					TRUE																																																																																														y																																									
-tomatoes and green chilies							TRUE																																																																																														y			y																																						
-tomatoes seasoned with basil garlic & oregano							TRUE																																																																											y																	y		y																																									
-tomatoes with juice							TRUE																																																																																														y																																									
+tomatoes and green chilies	y						TRUE																																																																																														y			y																																						
+tomatoes seasoned with basil garlic & oregano	y						TRUE																																																																											y																	y		y																																									
+tomatoes with juice	y						TRUE																																																																																														y																																									
 tomato-flavored bouillon cube							TRUE																																																																																														y																																									
 toor dal							TRUE																																																											y																																																																												
 tortellini							TRUE																					y																																																																																																																		
@@ -2080,7 +2080,7 @@ unsweetened pineapple juice							TRUE																																										
 unsweetened pineapple slices			y				TRUE																																																																																																																y																							
 unsweetened soymilk							TRUE			y																																																																																																																																				
 urad dal							TRUE																																																											y																																																																												
-v8 vegetable juice							TRUE																																																																																														y																																									
+v8 vegetable juice	y						TRUE																																																																																														y																																									
 valencia oranges		y					TRUE																																																																																																																							y																
 vanilla							TRUE																																														y																																																																																									
 vanilla bean							TRUE																																														y																																																																																									
@@ -2112,7 +2112,7 @@ vegetable broth							TRUE																																																						
 vegetable butter							TRUE																																						y																																																																																																	
 vegetable cocktail							FALSE																																																																																																																																							
 vegetable extract							FALSE																																																																																																																																							
-vegetable juice							TRUE																																																																																														y																																									
+vegetable juice	y						TRUE																																																																																														y																																									
 vegetable margarine							TRUE																																						y																																																																																																	
 vegetable marrow							FALSE																																																																																																																																							
 vegetable oil							TRUE																																							y																																																																																																
@@ -2221,7 +2221,7 @@ whole almond							TRUE																														y
 whole berry cranberry sauce	y						TRUE																																																																																																										y																													
 whole black peppercorn							TRUE																																									y																																																																																														
 whole black peppercorns							TRUE																																									y																																																																																														
-whole canned tomatoes							TRUE																																																																																														y																																									
+whole canned tomatoes	y						TRUE																																																																																														y																																									
 whole cloves							TRUE																																													y																																																																																										
 whole coriander seeds							TRUE																												y																																																																																																											
 whole corn			y				TRUE																		y																																																																																																																					
